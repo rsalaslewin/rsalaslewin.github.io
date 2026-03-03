@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 <iframe 
-  src="https://docs.google.com/viewer?url=https://rsalaslewin.github.io/files/cv.pdf&embedded=true"
-  width="100%" 
-  height="800px">
+  src="https://rsalaslewin.github.io/files/cv.pdf" 
+  width="70%" 
+  height="800px" 
+  style="border: none;">
 </iframe>
 
-<p>You can download a PDF copy of my CV <a href="/files/cv.pdf">here (PDF)</a>.</p>
+<p>You can download a PDF copy of my CV <a href="/files/cv.pdf">here</a>.</p>
