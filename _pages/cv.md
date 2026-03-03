@@ -14,4 +14,4 @@ redirect_from:
   style="border: none;">
 </iframe>
 
-<p>You can download a PDF copy of my CV <a href="/files/CV_Rocío_Salas-Lewin.pdf">here</a>.</p>
+<p>You can download a copy of my CV <a href="/files/CV_Rocío_Salas-Lewin.pdf">here</a>.</p>
