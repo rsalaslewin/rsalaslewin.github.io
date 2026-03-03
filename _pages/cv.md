@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <iframe 
-  src="https://rsalaslewin.github.io/files/cv.pdf" 
-  width="70%" 
+  src="https://docs.google.com/viewer?url=https://rsalaslewin.github.io/files/cv.pdf&embedded=true" 
+  width="80%" 
   height="800px" 
   style="border: none;">
 </iframe>
