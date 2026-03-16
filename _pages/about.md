@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD student in Comparative Politics at Cornell University's Department of Government. My research centers on social movements, electoral behavior, populism, and public opinion, with a regional focus on Latin America and Southern Europe. My work examines how ordinary people respond to crises of political representation, and how those crises reshape broader political attitudes and identities. I am particularly interested in the interaction between contentious and institutional behavior. Methodologically, I rely primarily on survey research and statistical modeling, but I am committed to a multi-method approach that brings in qualitative interviews and historical analysis to capture the complexity underlying these phenomena.
+Welcome! I am a PhD Candidate in Comparative Politics at Cornell University's Department of Government. My research centers on social movements, electoral behavior, populism, and public opinion, with a regional focus on Latin America and Southern Europe. My work examines how ordinary people respond to crises of political representation, and how those crises reshape broader political attitudes and identities. I am particularly interested in the interaction between contentious and institutional behavior. Methodologically, I rely primarily on survey research and statistical modeling, but I am committed to a multi-method approach that brings in qualitative interviews and historical analysis to capture the complexity underlying these phenomena.
 
 During the 2025-26 academic year I will be visiting the Institute of Political Science of the Pontificia Universidad Católica de Chile and conducting fieldwork in Chile.
 
